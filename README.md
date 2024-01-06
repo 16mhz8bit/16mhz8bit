@@ -1,5 +1,5 @@
 ### Hi there 🖖,
-I'm an avionics engineer and electronics engineering student, based in Italy 🇮🇹.
+I'm an avionics engineer and electronics engineering student, based in Italy 🇮🇹. <br>
 I've been passionate about physics, electronics, astronomy, and space technologies since childhood. 
 
 <!--
