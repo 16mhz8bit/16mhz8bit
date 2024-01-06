@@ -6,14 +6,13 @@ I've been passionate about physics, electronics, astronomy, and space technologi
 👯 I’m looking to collaborate on exciting projects related to the Aerospace industry or new interesting technology in general.<br>
 📫 Find me on LinkedIn: <a href="https://www.linkedin.com/in/leonardo-rossoni-2a2909282/" target="blank">link here</a>.<br>
 📧 Or send me an Email: leonardorossonipc@gmail.com <be>
+
 <style>
-body {
- background-image: url("https://github.com/16mhz8bit/16mhz8bit/assets/53312802/d0eade18-c1a9-4d2e-a307-146036258aa5");
+ body {
+ background-image: url("https://www.focus.it/images/2022/07/12/montagne-celesti_1020x680.jpg");
  background-color: #cccccc;
 }
 </style>
-
-
 
 
 <!--
