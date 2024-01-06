@@ -8,7 +8,7 @@ I've been passionate about physics, electronics, astronomy, and space technologi
 📧 Or send me an Email: leonardorossonipc@gmail.com <be>
 <style>
 body {
- background-image: url("![image](https://github.com/16mhz8bit/16mhz8bit/assets/53312802/d0eade18-c1a9-4d2e-a307-146036258aa5)");
+ background-image: url("https://github.com/16mhz8bit/16mhz8bit/assets/53312802/d0eade18-c1a9-4d2e-a307-146036258aa5");
  background-color: #cccccc;
 }
 </style>
