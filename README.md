@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 🖖,
+I'm an avionics engineer and electronics engineering student, based in Italy 🇮🇹.
+I've been passionate about physics, electronics, astronomy, and space technologies since childhood. 
 
 <!--
 **16mhz8bit/16mhz8bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
