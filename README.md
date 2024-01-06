@@ -6,7 +6,7 @@ I'm an avionics engineer and electronics engineering student, based in Italy �
 I've been passionate about physics, electronics, astronomy, and space technologies since childhood. 
 <br><br>
 🔭 I’m currently working on Power Electronics Systems and Embedded Systems for High Altitude Platforms at Involve Space 🚀.<br>
-👯 I’m looking to collaborate on exciting projects related to the Aerospace industry or new interesting technology in general.<br>
+👯 I’m looking to collaborate on exciting projects related to the Aerospace industry or new interesting technologies in general.<br>
 📫 Find me on LinkedIn: <a href="https://www.linkedin.com/in/leonardo-rossoni-2a2909282/" target="blank">link here</a>.<br>
 📧 Or send me an Email: leonardorossonipc@gmail.com <be>
 
