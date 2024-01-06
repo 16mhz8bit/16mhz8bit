@@ -1,4 +1,5 @@
-![image](https://github.com/16mhz8bit/16mhz8bit/assets/53312802/cf891019-71b5-4845-8a5f-be24a4a0adbe)
+![image](https://github.com/16mhz8bit/16mhz8bit/assets/53312802/6145e1de-5353-453d-861f-fe93a282b5f2)
+
 
 ### Hi there 🖖,
 I'm an avionics engineer and electronics engineering student, based in Italy 🇮🇹. <br>
