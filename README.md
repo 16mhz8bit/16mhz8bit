@@ -2,7 +2,7 @@
 
 
 ### Hi there 🖖,
-I'm an avionics engineer and electronics engineering student, based in Italy 🇮🇹. <br>
+I'm an electronics engineering student, based in Italy 🇮🇹. <br>
 I've been passionate about physics, electronics, astronomy, and space technologies since childhood. 
 <br><br>
 🌱 I recently built a radio telescope to study the Hydrogen Line and deepen my understanding of astrophysics.<br>
