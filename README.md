@@ -6,7 +6,7 @@ I'm an electronics engineering student, based in Italy 🇮🇹. <br>
 I've been passionate about physics, electronics, astronomy, and space technologies since childhood. 
 <br><br>
 🌱 I recently built a radio telescope to study the Hydrogen Line and deepen my understanding of astrophysics.<br>
-🌩️ I am finalizing a research project aboard the ISS investigating potential electromagnetic interference from storm clouds and its impact on onboard magnetometers.<br>
+🌩️ I completed a research project "aboard" the ISS investigating potential electromagnetic interference from storm clouds and its impact on onboard magnetometers.<br>
 🔭 I am embarking on an exciting new engineering project in astronomy.<br>
 👯 I’m looking to collaborate on exciting projects related to the Aerospace industry or new interesting technologies.<br>
 📫 Find me on LinkedIn: <a href="https://www.linkedin.com/in/leonardo-rossoni-2a2909282/" target="blank">link here</a>.<br>
