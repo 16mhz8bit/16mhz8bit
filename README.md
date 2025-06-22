@@ -7,7 +7,7 @@ I've been passionate about physics, electronics, astronomy, and space technologi
 <br><br>
 🌱 I recently built a radio telescope to study the Hydrogen Line and deepen my understanding of astrophysics.<br>
 🌩️ I completed a research project "aboard" the ISS investigating potential electromagnetic interference from storm clouds and its impact on onboard magnetometers.<br>
-🔭 I am embarking on an exciting new engineering project in astronomy.<br>
+🔭 Currently working on STARGAZER, an amateur 'space' telescope that will fly on an aerostatic balloon, stabilise itself and gather pictures and data in a space-like environment.<br>
 👯 I’m looking to collaborate on exciting projects related to the Aerospace industry or new interesting technologies.<br>
 📫 Find me on LinkedIn: <a href="https://www.linkedin.com/in/leonardo-rossoni-2a2909282/" target="blank">link here</a>.<br>
 📧 Or send me an Email: leonardorossonipc@gmail.com <be>
